@@ -300,6 +300,9 @@ func init() {
 				Value: "il-central-1",
 				Help:  "Israel (Tel Aviv) Region.\nNeeds location constraint il-central-1.",
 			}, {
+				Value: "me-central-1",
+				Help:  "Middle East (UAE) Region.\nNeeds location constraint me-central-1.",
+			}, {
 				Value: "me-south-1",
 				Help:  "Middle East (Bahrain) Region.\nNeeds location constraint me-south-1.",
 			}, {
@@ -527,6 +530,9 @@ func init() {
 			}, {
 				Value: "ap-southeast-1",
 				Help:  "Asia Pacific (Singapore)",
+			}, {
+				Value: "me-central-1",
+				Help:  "Middle East (UAE)",
 			}, {
 				Value: "me-south-1",
 				Help:  "Middle East (Bahrain)",
@@ -1549,6 +1555,9 @@ func init() {
 			}, {
 				Value: "il-central-1",
 				Help:  "Israel (Tel Aviv) Region",
+			}, {
+				Value: "me-central-1",
+				Help:  "Middle East (UAE) Region",
 			}, {
 				Value: "me-south-1",
 				Help:  "Middle East (Bahrain) Region",
